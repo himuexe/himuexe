@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himanshu Sharma</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" width="400" alt="coding" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDhZWVRjVktBTjNEQURRNGpldEhjMVlhMkFmZ3xBQ3Jtc0tsWENOUFdkWTV6dFJTQkpydnp6aXVySUJ4SFo5VGVlb1F3emxVVHlXTWIxV09ERUg4MUNrbEpzYm14Y192bHJYTUhwMmZLSWJGRkNDYlZlRlBwMTB4dWZvY29lZlo4MDQ1RGktbmpPLXFFMHk1aGRYQQ&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0">
+<img align="right" width="400" alt="coding" src="![redirect](https://github.com/himuexe/himuexe/assets/66200562/ef974384-fa77-402c-8437-5d8110d75370)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himuexe&label=Profile%20views&color=0e75b6&style=flat" alt="himuexe" /> </p>
 
