@@ -5,4 +5,4 @@
 <img src="https://tenor.com/view/star-wars-darth-vader-i-am-what-you-made-me-obi-wan-kenobi-series-gif-25837606.gif" height="300" width="370">
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/himuexe/himuexe/main/Now playing on Spotify.svg" height="130" width="300">
+<a href="https://www.youtube.com/watch?v=vOb3id28dVA"><img src="https://raw.githubusercontent.com/himuexe/himuexe/main/Now playing on Spotify.svg" height="130" width="300"></a>
