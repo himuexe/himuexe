@@ -63,3 +63,6 @@
 
 <p align="center">
 <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/himuexe/himuexe/main/github_stats.svg">
