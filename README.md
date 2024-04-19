@@ -15,4 +15,4 @@
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
  
 <p align="center">
-<img src="https://raw.githubusercontent.com/himuexe/himuexe/main/banner.svg"  width="600">
+<img src="https://raw.githubusercontent.com/himuexe/himuexe/main/marquee.svg">
