@@ -12,7 +12,7 @@ jobs:
         with:
           committer_message: 📈GitHub action updated profile metrics📉
           token: ${{ secrets.GITHUB_TOKEN }}
-          user: trinib
+          user: himuexe
           base: header, activity, repositories
           plugin_fortune: yes
           plugin_introduction: yes
