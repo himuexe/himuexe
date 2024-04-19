@@ -48,3 +48,12 @@
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=footer&reversal=false&color=0:b579da,100:79da7f">
+
+<p align="center">
+
+<b>FUN FACT EVERYDAY🤔 :</b>
+
+<i>❝The house where Bill Gates lives, was designed using a Macintosh computer❞</i>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/himuexe/himuexe/main/marquee2.svg">
