@@ -67,4 +67,4 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/himuexe/himuexe/main/github_stats.svg">
 
-[![Himanshu Sharma's stats](https://github-readme-stats.vercel.app/api?username=himuexe)](https://github.com/anuraghazra/github-readme-stats)
+![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=himuexe&show_icons=true&theme=transparent)
