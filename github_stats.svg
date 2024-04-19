@@ -273,7 +273,7 @@
                 <text x="0" textLength="8" class="foreground">║</text>
                 <text x="8" textLength="120" class="purple"> Commits       </text>
                 <text x="128" textLength="8" class="foreground">│</text>
-                <text x="136" textLength="96" class="green"> 54       </text>
+                <text x="136" textLength="96" class="green"> 66       </text>
                 <text x="232" textLength="8" class="foreground">║</text>
             </g>
             <g id="g29">

@@ -86,3 +86,10 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=himuexe&theme=dark)](https://git.io/streak-stats)
 </div>
+
+
+<p align="center">
+  <a href="https://github.com/himuexe?tab=stars&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/trinib"/></a>
+<a href="https://github.com/himuexe?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/trinib?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
