@@ -109,3 +109,6 @@
 <!-- SNAKE GRID -->
 <p align="center">
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+
+<!-- SNAKE GRAPH -->
+<img src="https://raw.githubusercontent.com/himuexe/himuexe/snake/github-snake-dark.svg" width="100%">
