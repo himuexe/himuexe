@@ -102,3 +102,6 @@
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=himuexe&color=0E9C47&style=for-the-badge">
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=himuexe&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
