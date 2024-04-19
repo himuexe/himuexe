@@ -6,7 +6,7 @@ settings:
   disabled_events: [event1, event2, event3]
   url_text: "{REPO}{ID}"
   date:
-    timezone: "GMT-04:00"
+    timezone: "GMT+05:30"
     text: "<i>Last refresh</i> : <b>{DATE}</b>"
     format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
   commit_name: "Schwifty-Bot"
