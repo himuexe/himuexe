@@ -76,10 +76,12 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/himuexe/himuexe/main/github_stats.svg">
 
+
 <div align="center">
 
 ![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=himuexe&show_icons=true&theme=transparent) 
 </div>
+
 
 
 <div align="center">
@@ -89,9 +91,12 @@
 
 
 
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himuexe&langs_count=8&theme=transparent"
 </div>
+
+
 
 
 <p align="center">
