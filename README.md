@@ -176,6 +176,8 @@
 <!--FOOTER--> 
 <img src="https://raw.githubusercontent.com/himuexe/himuexe/main/footer.svg" width="100%">
 
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 <p align="right">
 <!--RECENT_ACTIVITY:last_update-->
 <i>Last refresh</i> : <b>Friday, April 19th, 2024, 5:39:20 AM</b>
