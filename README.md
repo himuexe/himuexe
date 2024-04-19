@@ -67,8 +67,10 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/himuexe/himuexe/main/github_stats.svg">
 
-<p align="center">
+<div align="center">
 ![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=himuexe&show_icons=true&theme=transparent)
+</div>
 
-<p align="center">
+<div align="center">
 [![GitHub Streak](https://streak-stats.demolab.com/?user=himuexe&theme=dark)](https://git.io/streak-stats)
+</div>
