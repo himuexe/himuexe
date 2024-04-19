@@ -77,7 +77,7 @@
 <img src="https://raw.githubusercontent.com/himuexe/himuexe/main/github_stats.svg">
 
 
-                    ![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=himuexe&show_icons=true&theme=transparent) 
+        ![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=himuexe&show_icons=true&theme=transparent) 
 
 
 
