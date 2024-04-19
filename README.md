@@ -340,3 +340,7 @@ Here you can play Connect4. Just click a number under the grid to move. It's <!-
 
 <!--FOOTER--> 
 <img src="https://raw.githubusercontent.com/himuexe/himuexe/main/footer.svg" width="100%">
+
+<p align="right">
+<!--RECENT_ACTIVITY:last_update-->
+<i>Last refresh</i> : <b>Friday, April 19th, 2024, 5:39:20 AM</b>
