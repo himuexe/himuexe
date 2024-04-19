@@ -57,3 +57,9 @@
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/himuexe/himuexe/main/marquee2.svg">
+
+<p align="center">
+<img src="https://i.imgur.com/YCw47Dm.gif">
+
+<p align="center">
+<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
