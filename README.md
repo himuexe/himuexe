@@ -113,11 +113,21 @@
 <!-- SNAKE GRAPH -->
 <img src="https://raw.githubusercontent.com/himuexe/himuexe/snake/github-snake-dark.svg" width="100%">
 
-<!-- METRICES -->
-<h4 align="right">
-<details><summary><b>𝓟&nbsp;𝓡&nbsp;𝓞&nbsp;𝓕&nbsp;𝓘&nbsp;𝓛&nbsp;𝓔&nbsp;&nbsp; 𝓜&nbsp;𝓔&nbsp;𝓣&nbsp;𝓡&nbsp;𝓘&nbsp;𝓒&nbsp;𝓢<img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width=50px height=40px></b></summary>
-<p>
+<!-- JOKE TITLE -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/himuexe/himuexe/main/github-metrics.svg">
-</p>
-</details>
+<img src="https://i.imgur.com/KwHw09D.gif" height="30" width="150">
+
+<!-- JOKE CARD -->
+<p align="center">
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="400">
+
+<!-- QUOTE TITLE -->
+<p align="center">
+<img src="https://i.imgur.com/OFloXS3.gif" height="30" width="150">
+
+<!-- QUOTE CARD -->
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?theme=merko&border=true">
+<p align="center">
+<img src="https://github-readme-daily-quotes-trinib.vercel.app/api?theme=merko&category=programming&border=true&border_color=bdf259&border_width=3&border_radius=40&font=new_rocker"><br><br>
+
