@@ -75,7 +75,7 @@
 
 <!--  STATS TERMINAL -->
 <p align="center">
-<img src="https://github.com/himuexe/Stats/master/github_stats.svg">
+<img src="https://github.com/himuexe/Stats/blob/master/github_stats.svg">
 
 <!-- MAIN STATS -->
 <div align="center">
