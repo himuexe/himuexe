@@ -4,7 +4,7 @@
 
 <!-- Darth -->
 <p align="center">
-<img src="https://tenor.com/view/anakin-ahsoka-2023-ahsoka-episode-5-gif-14738813304556006917.gif" height="300" width="370"/>
+<img src="https://tenor.com/view/anakin-ahsoka-2023-ahsoka-episode-5-gif-14738813304556006917.gif" height="494" width="415"/>
 
 
 
