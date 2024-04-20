@@ -4,7 +4,7 @@
 
 <!-- Darth -->
 <p align="center">
-<img src="https://tenor.com/view/star-wars-dark-side-anakin-skywalker-darth-vader-revenge-of-the-sith-gif-25702979.gif" height="300" width="370/>
+<img src="https://tenor.com/view/star-wars-dark-side-anakin-skywalker-darth-vader-revenge-of-the-sith-gif-25702979.gif" height="300" width="370"/>
 
 
 
