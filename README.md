@@ -4,7 +4,7 @@
 
 <!-- Darth -->
 <p align="center">
-<img src="https://tenor.com/view/anakin-vader-anakin-ahsoka-2023-gif-17806572292667610720.gif" height="500" width="500"/>
+<img src="https://tenor.com/view/anakin-vader-anakin-ahsoka-2023-gif-17806572292667610720.gif" height="400" width="370"/>
 
 
 
