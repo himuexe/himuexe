@@ -4,7 +4,7 @@
 
 <!-- Darth -->
 <p align="center">
-<img src="https://tenor.com/view/anakin-vader-anakin-ahsoka-2023-gif-17806572292667610720" />
+<img src="https://tenor.com/view/anakin-vader-anakin-ahsoka-2023-gif-17806572292667610720.gif" />
 
 <!-- Spotify -->
 <p align="center">
