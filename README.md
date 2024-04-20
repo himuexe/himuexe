@@ -58,7 +58,7 @@
 
 <b>FUN FACT EVERYDAY🤔 :</b>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The worst breach of U.S. military computers in history happened when someone picked up a memory stick (infected by a foreign intelligence agency) they found in the parking lot and plugged it into their computer, which was attached to United States Central Command.❞</i>
+<i>❝The first word spoken on the internet was “lo”. It was supposed to be “login” but the computer crashed after the first two letters.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!-- RSS -->
@@ -184,5 +184,5 @@
 <!--RECENT_ACTIVITY:end-->
 <p align="right">
 <!--RECENT_ACTIVITY:last_update-->
-<i>Last refresh</i> : <b>Friday, April 19th, 2024, 10:35:21 AM</b>
+<i>Last refresh</i> : <b>Saturday, April 20th, 2024, 2:19:33 PM</b>
 <!--RECENT_ACTIVITY:last_update_end-->
