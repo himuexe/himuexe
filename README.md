@@ -94,7 +94,7 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himuexe&langs_count=8&theme=transparent"
 </div>
-<!--📛BADGES / 🌐WEBSITE: https://github.com/DenverCoder1/custom-icon-badges && https://github.com/idealclover/GitHub-Star-Counter -->
+<!-- TEST -->
 <p align="center">
   <a href="https://github.com/himuexe?tab=stars&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/himuexe"/></a>
