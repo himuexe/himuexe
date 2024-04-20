@@ -6,6 +6,8 @@
 <p align="center">
 <img src="https://tenor.com/view/star-wars-dark-side-anakin-skywalker-darth-vader-revenge-of-the-sith-gif-25702979.gif" height="300" width="370/>
 
+
+
 <!-- Spotify -->
 <p align="center">
 <a href="https://www.youtube.com/watch?v=vOb3id28dVA"><img src="https://raw.githubusercontent.com/himuexe/himuexe/main/Now playing on Spotify.svg" height="130" width="300"></a>
