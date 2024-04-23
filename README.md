@@ -152,6 +152,7 @@
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="60">
 
