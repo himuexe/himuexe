@@ -123,14 +123,6 @@
 <p align="center">
 <img src="https://github-readme-daily-quotes-trinib.vercel.app/api?theme=merko&category=programming&border=true&border_color=bdf259&border_width=3&border_radius=40&font=new_rocker"><br><br>
 
-<!-- MEMES TITLE -->
-<p align="center">
-<img src="https://i.imgur.com/vKOQi1L.gif" height="30" width="150">
-
-<!-- MEME CARD -->
-<p align="center">
-<img src="https://memer-dx9lqo667-trinib.vercel.app/" width="260px"/>
-
  <!--CAT-->
 <p align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
