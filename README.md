@@ -4,7 +4,7 @@
 
 <!-- Darth -->
 <p align="center">
-<img src="https://tenor.com/view/bad-movies-rule-bmr-batman-v-superman-movie-bvs-movie-batman-gif-18110424316177714945.gif" height="298" width="373"/>
+<img src="https://tenor.com/view/bad-movies-rule-bmr-batman-v-superman-movie-bvs-movie-batman-gif-18110424316177714945.gif" height="300" width="400"/>
 
 
 
