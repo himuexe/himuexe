@@ -1,10 +1,10 @@
 <!-- Title -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F7531A&center=true&vCenter=true&random=false&width=500&height=67&lines=+Dark+Side+of+the+Force" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F7531A&center=true&vCenter=true&random=false&width=500&height=67&lines=+May+the+Force+be+with+you" alt="Typing SVG" /></a>
 
 <!-- Darth -->
 <p align="center">
-<img src="https://tenor.com/view/obi-wan-kenobi-star-wars-hello-there-ewan-mcgregor-gif-16358959.gif" height="298" width="373"/>
+<img src="https://tenor.com/view/bad-movies-rule-bmr-batman-v-superman-movie-bvs-movie-batman-gif-18110424316177714945" height="298" width="373"/>
 
 
 
@@ -121,7 +121,7 @@
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?theme=merko&border=true">
 <p align="center">
-<img src="https://github-readme-daily-quotes-trinib.vercel.app/api?theme=merko&category=programming&border=true&border_color=bdf259&border_width=3&border_radius=40&font=new_rocker"><br><br>
+<br><br>
 
  <!--CAT-->
 <p align="center">
