@@ -60,7 +60,7 @@
 
 <b>FUN FACT EVERYDAY🤔 :</b>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Computers have memory or RAM, which stores items on the computer when they’re not in use. The processor stores everything your computer needs to run.❞</i>
+<i>❝It took Pixar 29 hours to render a single frame from Monster’s University. If done on a single CPU it would have taken 10,000 years to finish.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!-- RSS -->
@@ -168,5 +168,5 @@
 <!--RECENT_ACTIVITY:end-->
 <p align="right">
 <!--RECENT_ACTIVITY:last_update-->
-<i>Last refresh</i> : <b>Wednesday, July 24th, 2024, 1:03:53 PM</b>
+<i>Last refresh</i> : <b>Wednesday, October 9th, 2024, 2:09:56 AM</b>
 <!--RECENT_ACTIVITY:last_update_end-->
