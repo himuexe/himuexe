@@ -60,7 +60,7 @@
 
 <b>FUN FACT EVERYDAY🤔 :</b>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The original name of Windows was Interface Manager.❞</i>
+<i>❝More than 80% of the emails sent daily are spams.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!-- RSS -->
