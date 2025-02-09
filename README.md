@@ -60,7 +60,7 @@
 
 <b>FUN FACT EVERYDAY🤔 :</b>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝In 2009, computer scientists created a system that composes a realistic picture from a simple freehand sketch, pulling photos from the internet: Sketch2Photo.❞</i>
+<i>❝Steve Jobs wanted to hide a man wearing a fedora on the first Mac. Dubbed “Mr. Macintosh,” the character would appear after opening the menu bar several thousand times then quickly disappear, leaving users to question their sanity. The idea was scrapped due to Mac’s paltry 128KB of RAM.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!-- RSS -->
