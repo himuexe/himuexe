@@ -24,8 +24,7 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/himuexe/himuexe/main/marquee.svg">
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f">
+
 
 <div align="center">
   
