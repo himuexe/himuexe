@@ -20,11 +20,6 @@
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
  
-<!-- RSS -->
-<p align="center">
-<img src="https://raw.githubusercontent.com/himuexe/himuexe/main/marquee.svg">
-
-
 
 <div align="center">
   
