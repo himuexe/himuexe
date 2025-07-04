@@ -28,7 +28,7 @@
 
 <b>FUN FACT EVERYDAY🤔 :</b>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Web Arx security says more than 20,000 websites are hacked each day and most from the US❞</i>
+<i>❝A group of 12 engineers designed IBM PC and they were called as “The Dirty Dozen”.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!-- RSS -->
