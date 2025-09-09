@@ -28,7 +28,7 @@
 
 <b>FUN FACT EVERYDAY🤔 :</b>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝There is a website called “The Useless Web” . This is the last treatment for your boredom. If you ever feel bored please visit.❞</i>
+<i>❝Steve Jobs wanted to hide a man wearing a fedora on the first Mac. Dubbed “Mr. Macintosh,” the character would appear after opening the menu bar several thousand times then quickly disappear, leaving users to question their sanity. The idea was scrapped due to Mac’s paltry 128KB of RAM.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!-- RSS -->
