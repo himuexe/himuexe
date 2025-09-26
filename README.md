@@ -28,7 +28,7 @@
 
 <b>FUN FACT EVERYDAY🤔 :</b>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Gaming computers heat a room just as efficiently as a space heater does.❞</i>
+<i>❝The first-ever registered domain name was Symbolics.com for free.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!-- RSS -->
