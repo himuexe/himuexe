@@ -28,7 +28,7 @@
 
 <b>FUN FACT EVERYDAY🤔 :</b>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝One of the first instances of a stored computer program was in 1801 when Joseph Marie Jacquard demonstrated a loom that wove fabrics based on hole-punched cards that were fed into the machine.❞</i>
+<i>❝Windows doesn’t allow for creation of folders tagged CON, PRN, AUX, or NUL. These are keywords reserved by DOS.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!-- RSS -->
